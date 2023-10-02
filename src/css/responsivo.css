@@ -47,7 +47,7 @@
     }
 
     .conteudo {
-        top: -30px;
+        top: -50px;
     }
 
     .conteudo .nome-personagem {
@@ -56,7 +56,7 @@
 
     .botoes {
         pad: 20px;
-        top: -20px;
+        top: 10px;
     }
 
     .botoes .botao img {
